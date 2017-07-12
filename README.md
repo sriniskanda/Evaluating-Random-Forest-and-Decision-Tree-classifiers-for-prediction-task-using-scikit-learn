@@ -1,0 +1,2 @@
+# Evaluating-Random-Forest-and-Decision-Tree-classifiers-for-prediction-task-using-scikit-learn
+Task was to implement classification model that predict probability that a person X will buy a product Y. Dataset contains various features of X's past activities and activities of people who buy Y. Random forest and decision tree classifier model is trained for given training dataset. model is evaluated using various metrics like overall_accuracy, confusion matrix, recall_accuracy. Depending on the score right model is chosen for prediction task.
